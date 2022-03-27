@@ -25,10 +25,10 @@ def hello():
 
 if __name__ == '__main__':
     app.run()
- 6. zapisanie pliku do folderu FlaskApp
- 7.deklaracja flaskapp
-  set FLASK_APP=app.py
-  8.odpalić
-  flask run
-  9.skopiować adres url i wkleić do wyszukiwarki
+6. zapisanie pliku do folderu FlaskApp
+7.deklaracja flaskapp
+set FLASK_APP=app.py
+8.odpalić
+ flask run
+9.skopiować adres url i wkleić do wyszukiwarki
   

@@ -24,6 +24,7 @@ def hello():
 
 
 if __name__ == '__main__':
+    
     app.run()
 6. zapisanie pliku do folderu FlaskApp
 7.deklaracja flaskapp
